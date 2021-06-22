@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushs15
 - 👀 I’m interested in Web development and Software Development.
-- 🌱 I’m currently a Student in  Btech steam. 
+- 🌱 I’m currently a Btech(cse) 3rd year student. 
 -
 
 <!---
